@@ -1,0 +1,105 @@
+1499752050513	geckodriver	INFO	Listening on 127.0.0.1:55092
+1499752052571	geckodriver::marionette	INFO	Starting browser E:\firefox\firefox.exe with args ["-marionette"]
+1499752053781	Marionette	INFO	Listening on port 55099
+1499752054102	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.bootcss.com/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499752057920	Marionette	INFO	New connections will no longer be accepted
+[Child 2100] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1499752170567	geckodriver	INFO	Listening on 127.0.0.1:55150
+1499752172592	geckodriver::marionette	INFO	Starting browser E:\firefox\firefox.exe with args ["-marionette"]
+1499752176721	Marionette	INFO	Listening on port 55166
+1499752178140	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.bootcss.com/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499752179831	Marionette	INFO	New connections will no longer be accepted
+[Child 6560] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1499753389702	geckodriver	INFO	Listening on 127.0.0.1:55661
+1499753391739	geckodriver::marionette	INFO	Starting browser E:\firefox\firefox.exe with args ["-marionette"]
+1499753392918	Marionette	INFO	Listening on port 55667
+1499753393275	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.bootcss.com/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499753397367	Marionette	INFO	New connections will no longer be accepted
+[Child 4748] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1499753446533	geckodriver	INFO	Listening on 127.0.0.1:55721
+1499753448558	geckodriver::marionette	INFO	Starting browser E:\firefox\firefox.exe with args ["-marionette"]
+1499753449773	Marionette	INFO	Listening on port 55727
+1499753450092	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.bootcss.com/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499753460382	Marionette	INFO	New connections will no longer be accepted
+[Child 7376] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1499753509727	geckodriver	INFO	Listening on 127.0.0.1:55781
+1499753511751	geckodriver::marionette	INFO	Starting browser E:\firefox\firefox.exe with args ["-marionette"]
+1499753512913	Marionette	INFO	Listening on port 55787
+1499753513282	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://cdn.bootcss.com/jquery/2.0.3/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1499753536259	Marionette	INFO	New connections will no longer be accepted
+[Child 7024] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1499755585289	geckodriver	INFO	Listening on 127.0.0.1:62561
+1499755587315	geckodriver::marionette	INFO	Starting browser E:\firefox\firefox.exe with args ["-marionette"]
+1499755588843	Marionette	INFO	Listening on port 62572
+1499755589345	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=1&json=1&p=3&sid=1457_21097_18560_17001_22075&req=2&csor=1&cb=jQuery110209012089339103574_1499755591317&_=1499755591319, line 1: TypeError: jQuery110209012089339103574_1499755591317 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=12&json=1&p=3&sid=1457_21097_18560_17001_22075&req=2&csor=2&pwd=1&cb=jQuery110209012089339103574_1499755591317&_=1499755591320, line 1: TypeError: jQuery110209012089339103574_1499755591317 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=123&json=1&p=3&sid=1457_21097_18560_17001_22075&req=2&csor=3&pwd=12&cb=jQuery110209012089339103574_1499755591317&_=1499755591321, line 1: TypeError: jQuery110209012089339103574_1499755591317 is not a function
+[Child 4228] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 4228] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1499755640060	geckodriver	INFO	Listening on 127.0.0.1:62669
+1499755642085	geckodriver::marionette	INFO	Starting browser E:\firefox\firefox.exe with args ["-marionette"]
+1499755643395	Marionette	INFO	Listening on port 62682
+1499755643630	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=123&json=1&p=3&sid=1436_21081&req=2&csor=3&pwd=12&cb=jQuery110208322345641362732_1499755646718&_=1499755646722, line 1: TypeError: jQuery110208322345641362732_1499755646718 is not a function
+1499755650664	Marionette	INFO	New connections will no longer be accepted
+[Child 3352] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 512
+[Child 3352] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1499755720750	geckodriver	INFO	Listening on 127.0.0.1:62777
+1499755722773	geckodriver::marionette	INFO	Starting browser E:\firefox\firefox.exe with args ["-marionette"]
+1499755724071	Marionette	INFO	Listening on port 62791
+1499755724302	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=123&json=1&p=3&sid=1450_21084_20929&req=2&csor=3&pwd=12&cb=jQuery110201262091366574587_1499755726888&_=1499755726892, line 1: TypeError: jQuery110201262091366574587_1499755726888 is not a function
+1499755731955	Marionette	INFO	New connections will no longer be accepted
+[Child 5016] WARNING: pipe error: 232: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 512
+[Child 5016] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1499756026055	geckodriver	INFO	Listening on 127.0.0.1:63022
+1499756028076	geckodriver::marionette	INFO	Starting browser E:\firefox\firefox.exe with args ["-marionette"]
+1499756029394	Marionette	INFO	Listening on port 63034
+1499756029630	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 2052] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 2052] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1499756066372	geckodriver	INFO	Listening on 127.0.0.1:63087
+1499756068400	geckodriver::marionette	INFO	Starting browser E:\firefox\firefox.exe with args ["-marionette"]
+1499756069723	Marionette	INFO	Listening on port 63099
+1499756069950	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 7424] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 7424] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1499756098117	geckodriver	INFO	Listening on 127.0.0.1:63131
+1499756100118	geckodriver::marionette	INFO	Starting browser E:\firefox\firefox.exe with args ["-marionette"]
+1499756101441	Marionette	INFO	Listening on port 63144
+1499756101680	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=1&json=1&p=3&sid=1424_21126&req=2&csor=1&cb=jQuery110205989456277919175_1499756104415&_=1499756104417, line 1: TypeError: jQuery110205989456277919175_1499756104415 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=12&json=1&p=3&sid=1424_21126&req=2&csor=2&pwd=1&cb=jQuery110205989456277919175_1499756104415&_=1499756104418, line 1: TypeError: jQuery110205989456277919175_1499756104415 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=123&json=1&p=3&sid=1424_21126&req=2&csor=3&pwd=12&cb=jQuery110205989456277919175_1499756104415&_=1499756104419, line 1: TypeError: jQuery110205989456277919175_1499756104415 is not a function
+1499756112559	Marionette	INFO	New connections will no longer be accepted
+[Child 336] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1499756303486	geckodriver	INFO	Listening on 127.0.0.1:63300
+1499756305508	geckodriver::marionette	INFO	Starting browser E:\firefox\firefox.exe with args ["-marionette"]
+1499756307019	Marionette	INFO	Listening on port 63312
+1499756307527	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=12&json=1&p=3&sid=1436_21127_17001&req=2&csor=2&pwd=1&cb=jQuery110208212963532901052_1499756309550&_=1499756309553, line 1: TypeError: jQuery110208212963532901052_1499756309550 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=123&json=1&p=3&sid=1436_21127_17001&req=2&csor=3&pwd=12&cb=jQuery110208212963532901052_1499756309550&_=1499756309554, line 1: TypeError: jQuery110208212963532901052_1499756309550 is not a function
+[Child 3528] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1499756317890	geckodriver::marionette	ERROR	Failed to kill browser process
+1499756319658	geckodriver	INFO	Listening on 127.0.0.1:63397
+1499756321684	geckodriver::marionette	INFO	Starting browser E:\firefox\firefox.exe with args ["-marionette"]
+1499756323032	Marionette	INFO	Listening on port 63409
+1499756323273	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500018623685	geckodriver	INFO	Listening on 127.0.0.1:49193
+1500018625735	geckodriver::marionette	INFO	Starting browser E:\firefox\firefox.exe with args ["-marionette"]
+1500018627112	Marionette	INFO	Listening on port 49207
+1500018627369	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500018779626	geckodriver	INFO	Listening on 127.0.0.1:49316
+1500018781646	geckodriver::marionette	INFO	Starting browser E:\firefox\firefox.exe with args ["-marionette"]
+1500018782966	Marionette	INFO	Listening on port 49329
+1500018783200	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=12&json=1&p=3&sid=1448_21107&req=2&csor=2&pwd=1&cb=jQuery110207326137491812104_1500018785141&_=1500018785144, line 1: TypeError: jQuery110207326137491812104_1500018785141 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=123&json=1&p=3&sid=1448_21107&req=2&csor=3&pwd=12&cb=jQuery110207326137491812104_1500018785141&_=1500018785145, line 1: TypeError: jQuery110207326137491812104_1500018785141 is not a function
+1500018792952	Marionette	INFO	New connections will no longer be accepted
+[Child 7788] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143

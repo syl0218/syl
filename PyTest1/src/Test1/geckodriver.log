@@ -1,0 +1,56 @@
+1499332799883	geckodriver	INFO	Listening on 127.0.0.1:56773
+1499332801922	geckodriver::marionette	INFO	Starting browser E:\firefox\firefox.exe with args ["-marionette"]
+1499332803493	Marionette	INFO	Listening on port 56779
+1499332868370	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1499332903698	geckodriver	INFO	Listening on 127.0.0.1:56881
+1499332905732	geckodriver::marionette	INFO	Starting browser E:\firefox\firefox.exe with args ["-marionette"]
+1499332906891	Marionette	INFO	Listening on port 56887
+[Child 7256] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 7256] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1499333537090	geckodriver	INFO	Listening on 127.0.0.1:51307
+1499333539126	geckodriver::marionette	INFO	Starting browser E:\firefox\firefox.exe with args ["-marionette"]
+1499333540337	Marionette	INFO	Listening on port 51313
+1499333540636	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleniu&json=1&p=3&sid=1448_21093_17001_20718&req=2&csor=7&pwd=seleni&cb=jQuery11020397529438861726_1499333542663&_=1499333542671, line 1: TypeError: jQuery11020397529438861726_1499333542663 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleni&json=1&p=3&sid=1448_21093_17001_20718&req=2&csor=6&pwd=selen&cb=jQuery11020397529438861726_1499333542663&_=1499333542670, line 1: TypeError: jQuery11020397529438861726_1499333542663 is not a function
+1499333553903	Marionette	INFO	New connections will no longer be accepted
+[Child 6920] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1499333953103	geckodriver	INFO	Listening on 127.0.0.1:54355
+1499333955129	geckodriver::marionette	INFO	Starting browser E:\firefox\firefox.exe with args ["-marionette"]
+1499333956284	Marionette	INFO	Listening on port 54362
+1499333956655	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleni&json=1&p=3&sid=1457_21111_17001_20719&req=2&csor=6&pwd=selen&cb=jQuery110209406220373269071_1499333958496&_=1499333958503, line 1: TypeError: jQuery110209406220373269071_1499333958496 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sel&json=1&p=3&sid=1457_21111_17001_20719&req=2&csor=3&pwd=se&cb=jQuery110209406220373269071_1499333958496&_=1499333958500, line 1: TypeError: jQuery110209406220373269071_1499333958496 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sele&json=1&p=3&sid=1457_21111_17001_20719&req=2&csor=4&pwd=sel&cb=jQuery110209406220373269071_1499333958496&_=1499333958501, line 1: TypeError: jQuery110209406220373269071_1499333958496 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selen&json=1&p=3&sid=1457_21111_17001_20719&req=2&csor=5&pwd=sele&cb=jQuery110209406220373269071_1499333958496&_=1499333958502, line 1: TypeError: jQuery110209406220373269071_1499333958496 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium&json=1&p=3&sid=1457_21111_17001_20719&req=2&csor=8&pwd=seleniu&cb=jQuery110209406220373269071_1499333958496&_=1499333958505, line 1: TypeError: jQuery110209406220373269071_1499333958496 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleniu&json=1&p=3&sid=1457_21111_17001_20719&req=2&csor=7&pwd=seleni&cb=jQuery110209406220373269071_1499333958496&_=1499333958504, line 1: TypeError: jQuery110209406220373269071_1499333958496 is not a function
+1499333969311	Marionette	INFO	New connections will no longer be accepted
+[Child 7548] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1499334417511	geckodriver	INFO	Listening on 127.0.0.1:60030
+1499334419539	geckodriver::marionette	INFO	Starting browser E:\firefox\firefox.exe with args ["-marionette"]
+1499334420706	Marionette	INFO	Listening on port 60036
+1499334421069	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499334433502	Marionette	INFO	New connections will no longer be accepted
+[Child 7592] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1499334472726	geckodriver	INFO	Listening on 127.0.0.1:60094
+1499334474763	geckodriver::marionette	INFO	Starting browser E:\firefox\firefox.exe with args ["-marionette"]
+1499334475926	Marionette	INFO	Listening on port 60100
+1499334476296	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleni&json=1&p=3&sid=1443_21103_17001_22158&req=2&csor=6&pwd=selen&cb=jQuery1102011410843829636586_1499334477929&_=1499334477936, line 1: TypeError: jQuery1102011410843829636586_1499334477929 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium&json=1&p=3&sid=1443_21103_17001_22158&req=2&csor=8&pwd=seleniu&cb=jQuery1102011410843829636586_1499334477929&_=1499334477938, line 1: TypeError: jQuery1102011410843829636586_1499334477929 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleniu&json=1&p=3&sid=1443_21103_17001_22158&req=2&csor=7&pwd=seleni&cb=jQuery1102011410843829636586_1499334477929&_=1499334477937, line 1: TypeError: jQuery1102011410843829636586_1499334477929 is not a function
+1499334488756	Marionette	INFO	New connections will no longer be accepted
+[Child 5308] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1499334521518	geckodriver	INFO	Listening on 127.0.0.1:60163
+1499334523553	geckodriver::marionette	INFO	Starting browser E:\firefox\firefox.exe with args ["-marionette"]
+1499334524729	Marionette	INFO	Listening on port 60169
+1499334525085	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499334537601	Marionette	INFO	New connections will no longer be accepted
+[Child 2672] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
+1499334758906	geckodriver	INFO	Listening on 127.0.0.1:53739
+1499334760932	geckodriver::marionette	INFO	Starting browser E:\firefox\firefox.exe with args ["-marionette"]
+1499334762125	Marionette	INFO	Listening on port 53745
+1499334762456	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499334776826	Marionette	INFO	New connections will no longer be accepted
+[Child 1096] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2143
