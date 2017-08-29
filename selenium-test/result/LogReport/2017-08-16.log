@@ -1,0 +1,216 @@
+2017-08-16 16:47:52,201 - log.py - INFO - ############################### Start ###############################
+2017-08-16 16:47:54,406 - log.py - INFO - SUCCESS    Start a new browser: chrome
+2017-08-16 16:47:55,583 - log.py - INFO - SUCCESS    Set browser window maximized
+2017-08-16 16:47:57,626 - log.py - INFO - SUCCESS    open  http://192.168.133.217
+2017-08-16 16:47:57,741 - log.py - INFO - SUCCESS    Click element:<('class name', 'check_login_start')>
+2017-08-16 16:47:57,960 - log.py - INFO - SUCCESS    send_keys element: <('name', 'username')> text:13777669876
+2017-08-16 16:47:58,059 - log.py - INFO - SUCCESS    send_keys element: <('name', 'password')> text:1234567
+2017-08-16 16:47:58,137 - log.py - INFO - SUCCESS    Click element:<('class name', 'btn-login-submit')>
+2017-08-16 16:48:00,218 - log.py - INFO - SUCCESS    Click element:<('class name', 'go-user-page')>
+2017-08-16 16:48:00,260 - log.py - INFO - SUCCESS   open_new_window <Cdwindow-8A655483-3739-4149-A95B-D0E8Ef9589E5>
+2017-08-16 16:48:01,366 - log.py - INFO - SUCCESS    Click element:<('class name', 'account-set-li')>
+2017-08-16 16:48:01,815 - log.py - INFO - SUCCESS    Clear element: <('name', 'description')>
+2017-08-16 16:48:01,870 - log.py - INFO - SUCCESS    send_keys element: <('name', 'description')> text:
+2017-08-16 16:48:01,948 - log.py - INFO - SUCCESS    Click element:<('class name', 'account-home-btn-save')>
+2017-08-16 16:48:05,021 - log.py - INFO - SUCCESS    Click element:<('class name', 'btn-primary')>
+2017-08-16 16:48:06,159 - log.py - INFO - SUCCESS    driver quit
+2017-08-16 16:48:06,164 - log.py - INFO - ###############################  End  ###############################
+2017-08-16 16:48:06,170 - log.py - INFO - ############################### Start ###############################
+2017-08-16 16:48:08,308 - log.py - INFO - SUCCESS    Start a new browser: chrome
+2017-08-16 16:48:09,477 - log.py - INFO - SUCCESS    Set browser window maximized
+2017-08-16 16:48:12,766 - log.py - INFO - SUCCESS    open  http://192.168.133.217
+2017-08-16 16:48:12,892 - log.py - INFO - SUCCESS    Click element:<('class name', 'check_login_start')>
+2017-08-16 16:48:13,084 - log.py - INFO - SUCCESS    send_keys element: <('name', 'username')> text: 
+2017-08-16 16:48:13,160 - log.py - INFO - SUCCESS    send_keys element: <('name', 'password')> text: 
+2017-08-16 16:48:13,238 - log.py - INFO - SUCCESS    Click element:<('class name', 'btn-login-submit')>
+2017-08-16 16:48:15,283 - log.py - INFO - FAIL    Unable to click element:<('class name', 'go-user-page')> 
+2017-08-16 16:48:16,392 - log.py - INFO - SUCCESS    driver quit
+2017-08-16 16:48:16,397 - log.py - INFO - ###############################  End  ###############################
+2017-08-16 16:48:16,405 - log.py - INFO - ############################### Start ###############################
+2017-08-16 16:48:18,536 - log.py - INFO - SUCCESS    Start a new browser: chrome
+2017-08-16 16:48:19,712 - log.py - INFO - SUCCESS    Set browser window maximized
+2017-08-16 16:48:19,717 - log.py - INFO - ------test_changname-----
+2017-08-16 16:48:21,652 - log.py - INFO - SUCCESS    open  http://192.168.133.217
+2017-08-16 16:48:21,763 - log.py - INFO - SUCCESS    Click element:<('css selector', '.check_login_start')>
+2017-08-16 16:48:21,981 - log.py - INFO - SUCCESS    send_keys element: <('name', 'username')> text:13777669876
+2017-08-16 16:48:22,072 - log.py - INFO - SUCCESS    send_keys element: <('name', 'password')> text:1234567
+2017-08-16 16:48:22,153 - log.py - INFO - SUCCESS    Click element:<('class name', 'btn-login-submit')>
+2017-08-16 16:48:25,233 - log.py - INFO - SUCCESS    Click element:<('class name', 'go-user-page')>
+2017-08-16 16:48:25,279 - log.py - INFO - SUCCESS   open_new_window <Cdwindow-295B3Fb3-D1D1-445C-B9D2-8D7507053A8E>
+2017-08-16 16:48:26,395 - log.py - INFO - SUCCESS    Click element:<('class name', 'account-set-li')>
+2017-08-16 16:48:26,815 - log.py - INFO - SUCCESS    Click element:<('class name', 'modify-account-set-btn')>
+2017-08-16 16:48:26,867 - log.py - INFO - SUCCESS    Clear element: <('name', 'name')>
+2017-08-16 16:48:26,941 - log.py - INFO - SUCCESS    send_keys element: <('name', 'name')> text:骨头测试环境222
+2017-08-16 16:48:27,030 - log.py - INFO - SUCCESS    Click element:<('class name', 'account-home-btn-save')>
+2017-08-16 16:48:30,095 - log.py - INFO - SUCCESS    Click element:<('class name', 'btn-primary')>
+2017-08-16 16:48:31,221 - log.py - INFO - SUCCESS    driver quit
+2017-08-16 16:48:31,226 - log.py - INFO - ###############################  End  ###############################
+2017-08-16 16:48:31,232 - log.py - INFO - ############################### Start ###############################
+2017-08-16 16:48:33,373 - log.py - INFO - SUCCESS    Start a new browser: chrome
+2017-08-16 16:48:34,543 - log.py - INFO - SUCCESS    Set browser window maximized
+2017-08-16 16:48:34,549 - log.py - INFO - ------test_changname-----
+2017-08-16 16:48:36,122 - log.py - INFO - SUCCESS    open  http://192.168.133.217
+2017-08-16 16:48:36,234 - log.py - INFO - SUCCESS    Click element:<('css selector', '.check_login_start')>
+2017-08-16 16:48:36,436 - log.py - INFO - SUCCESS    send_keys element: <('name', 'username')> text: 
+2017-08-16 16:48:36,511 - log.py - INFO - SUCCESS    send_keys element: <('name', 'password')> text: 
+2017-08-16 16:48:36,589 - log.py - INFO - SUCCESS    Click element:<('class name', 'btn-login-submit')>
+2017-08-16 17:15:35,619 - log.py - INFO - ############################### Start ###############################
+2017-08-16 17:15:39,064 - log.py - INFO - SUCCESS    Start a new browser: chrome
+2017-08-16 17:15:40,236 - log.py - INFO - SUCCESS    Set browser window maximized
+2017-08-16 17:15:41,823 - log.py - INFO - SUCCESS    open  http://192.168.133.217
+2017-08-16 17:15:41,940 - log.py - INFO - SUCCESS    Click element:<('class name', 'check_login_start')>
+2017-08-16 17:15:42,154 - log.py - INFO - SUCCESS    send_keys element: <('name', 'username')> text:13777669876
+2017-08-16 17:15:42,243 - log.py - INFO - SUCCESS    send_keys element: <('name', 'password')> text:1234567
+2017-08-16 17:15:42,321 - log.py - INFO - SUCCESS    Click element:<('class name', 'btn-login-submit')>
+2017-08-16 17:15:44,400 - log.py - INFO - SUCCESS    Click element:<('class name', 'go-user-page')>
+2017-08-16 17:15:44,414 - log.py - INFO - SUCCESS   open_new_window <Cdwindow-73F4Ecd3-Fc7E-4C0A-A1Cf-F9892D5B911D>
+2017-08-16 17:15:45,509 - log.py - INFO - SUCCESS    Click element:<('class name', 'account-set-li')>
+2017-08-16 17:15:45,903 - log.py - INFO - SUCCESS    Clear element: <('name', 'description')>
+2017-08-16 17:15:45,954 - log.py - INFO - SUCCESS    send_keys element: <('name', 'description')> text:
+2017-08-16 17:15:46,034 - log.py - INFO - SUCCESS    Click element:<('class name', 'account-home-btn-save')>
+2017-08-16 17:15:49,102 - log.py - INFO - SUCCESS    Click element:<('class name', 'btn-primary')>
+2017-08-16 17:15:52,171 - log.py - INFO - SUCCESS    driver quit
+2017-08-16 17:15:52,177 - log.py - INFO - ###############################  End  ###############################
+2017-08-16 17:15:52,182 - log.py - INFO - ############################### Start ###############################
+2017-08-16 17:15:55,587 - log.py - INFO - SUCCESS    Start a new browser: chrome
+2017-08-16 17:15:56,753 - log.py - INFO - SUCCESS    Set browser window maximized
+2017-08-16 17:15:58,451 - log.py - INFO - SUCCESS    open  http://192.168.133.217
+2017-08-16 17:15:58,563 - log.py - INFO - SUCCESS    Click element:<('class name', 'check_login_start')>
+2017-08-16 17:15:58,752 - log.py - INFO - SUCCESS    send_keys element: <('name', 'username')> text: 
+2017-08-16 17:15:58,826 - log.py - INFO - SUCCESS    send_keys element: <('name', 'password')> text: 
+2017-08-16 17:15:58,902 - log.py - INFO - SUCCESS    Click element:<('class name', 'btn-login-submit')>
+2017-08-16 17:16:00,948 - log.py - INFO - FAIL    Unable to click element:<('class name', 'go-user-page')> 
+2017-08-16 17:16:04,022 - log.py - INFO - SUCCESS    driver quit
+2017-08-16 17:16:04,028 - log.py - INFO - ###############################  End  ###############################
+2017-08-16 17:16:04,036 - log.py - INFO - ############################### Start ###############################
+2017-08-16 17:16:07,424 - log.py - INFO - SUCCESS    Start a new browser: chrome
+2017-08-16 17:16:08,583 - log.py - INFO - SUCCESS    Set browser window maximized
+2017-08-16 17:16:08,589 - log.py - INFO - ------test_changname-----
+2017-08-16 17:16:10,301 - log.py - INFO - SUCCESS    open  http://192.168.133.217
+2017-08-16 17:16:10,416 - log.py - INFO - SUCCESS    Click element:<('css selector', '.check_login_start')>
+2017-08-16 17:16:10,633 - log.py - INFO - SUCCESS    send_keys element: <('name', 'username')> text:13777669876
+2017-08-16 17:16:10,733 - log.py - INFO - SUCCESS    send_keys element: <('name', 'password')> text:1234567
+2017-08-16 17:16:10,812 - log.py - INFO - SUCCESS    Click element:<('class name', 'btn-login-submit')>
+2017-08-16 17:16:13,903 - log.py - INFO - SUCCESS    Click element:<('class name', 'go-user-page')>
+2017-08-16 17:16:13,933 - log.py - INFO - SUCCESS   open_new_window <Cdwindow-2D6Fd7Aa-646B-42F7-Ad23-B7705Fa103Be>
+2017-08-16 17:16:15,040 - log.py - INFO - SUCCESS    Click element:<('class name', 'account-set-li')>
+2017-08-16 17:16:15,408 - log.py - INFO - SUCCESS    Click element:<('class name', 'modify-account-set-btn')>
+2017-08-16 17:16:15,470 - log.py - INFO - SUCCESS    Clear element: <('name', 'name')>
+2017-08-16 17:16:15,537 - log.py - INFO - SUCCESS    send_keys element: <('name', 'name')> text:骨头测试环境222
+2017-08-16 17:16:15,630 - log.py - INFO - SUCCESS    Click element:<('class name', 'account-home-btn-save')>
+2017-08-16 17:16:18,703 - log.py - INFO - SUCCESS    Click element:<('class name', 'btn-primary')>
+2017-08-16 17:16:21,766 - log.py - INFO - SUCCESS    driver quit
+2017-08-16 17:16:21,773 - log.py - INFO - ###############################  End  ###############################
+2017-08-16 17:16:21,778 - log.py - INFO - ############################### Start ###############################
+2017-08-16 17:16:25,167 - log.py - INFO - SUCCESS    Start a new browser: chrome
+2017-08-16 17:16:26,341 - log.py - INFO - SUCCESS    Set browser window maximized
+2017-08-16 17:16:26,347 - log.py - INFO - ------test_changname-----
+2017-08-16 17:16:27,885 - log.py - INFO - SUCCESS    open  http://192.168.133.217
+2017-08-16 17:16:27,998 - log.py - INFO - SUCCESS    Click element:<('css selector', '.check_login_start')>
+2017-08-16 17:16:28,191 - log.py - INFO - SUCCESS    send_keys element: <('name', 'username')> text: 
+2017-08-16 17:16:28,270 - log.py - INFO - SUCCESS    send_keys element: <('name', 'password')> text: 
+2017-08-16 17:16:28,351 - log.py - INFO - SUCCESS    Click element:<('class name', 'btn-login-submit')>
+2017-08-16 17:16:31,398 - log.py - INFO - FAIL    Unable to click element:<('class name', 'go-user-page')> 
+2017-08-16 17:16:34,482 - log.py - INFO - SUCCESS    driver quit
+2017-08-16 17:16:34,489 - log.py - INFO - ###############################  End  ###############################
+2017-08-16 17:16:34,496 - log.py - INFO - ############################### Start ###############################
+2017-08-16 17:16:37,888 - log.py - INFO - SUCCESS    Start a new browser: chrome
+2017-08-16 17:16:39,068 - log.py - INFO - SUCCESS    Set browser window maximized
+2017-08-16 17:16:39,075 - log.py - INFO - ------test_changepassword-----
+2017-08-16 17:16:40,847 - log.py - INFO - SUCCESS    open  http://192.168.133.217
+2017-08-16 17:16:40,966 - log.py - INFO - SUCCESS    Click element:<('css selector', '.check_login_start')>
+2017-08-16 17:16:41,178 - log.py - INFO - SUCCESS    send_keys element: <('name', 'username')> text:13777669876
+2017-08-16 17:16:41,268 - log.py - INFO - SUCCESS    send_keys element: <('name', 'password')> text:1234567
+2017-08-16 17:16:41,348 - log.py - INFO - SUCCESS    Click element:<('class name', 'btn-login-submit')>
+2017-08-16 17:16:44,432 - log.py - INFO - SUCCESS    Click element:<('class name', 'go-user-page')>
+2017-08-16 17:16:44,459 - log.py - INFO - SUCCESS   open_new_window <Cdwindow-1497E0Cc-19D5-4E25-B82E-A6Eb6F591C39>
+2017-08-16 17:16:45,574 - log.py - INFO - SUCCESS    Click element:<('class name', 'account-set-li')>
+2017-08-16 17:16:45,949 - log.py - INFO - SUCCESS    Click element:<('class name', 'reset-pwd-a')>
+2017-08-16 17:16:46,151 - log.py - INFO - SUCCESS    send_keys element: <('name', 'oldPassword')> text:1234567
+2017-08-16 17:16:46,247 - log.py - INFO - SUCCESS    send_keys element: <('name', 'password')> text:1234567
+2017-08-16 17:16:46,337 - log.py - INFO - SUCCESS    send_keys element: <('name', 'repassword')> text:1234567
+2017-08-16 17:16:46,426 - log.py - INFO - SUCCESS    Click element:<('class name', 'btn-resetpwd-submit')>
+2017-08-16 17:16:48,491 - log.py - INFO - SUCCESS    Click element:<('class name', 'btn-primary')>
+2017-08-16 17:16:51,549 - log.py - INFO - SUCCESS    driver quit
+2017-08-16 17:16:51,555 - log.py - INFO - ###############################  End  ###############################
+2017-08-16 17:16:51,560 - log.py - INFO - ############################### Start ###############################
+2017-08-16 17:16:54,939 - log.py - INFO - SUCCESS    Start a new browser: chrome
+2017-08-16 17:16:56,108 - log.py - INFO - SUCCESS    Set browser window maximized
+2017-08-16 17:16:56,114 - log.py - INFO - ------test_changepassword-----
+2017-08-16 17:16:57,604 - log.py - INFO - SUCCESS    open  http://192.168.133.217
+2017-08-16 17:16:57,717 - log.py - INFO - SUCCESS    Click element:<('css selector', '.check_login_start')>
+2017-08-16 17:16:57,907 - log.py - INFO - SUCCESS    send_keys element: <('name', 'username')> text: 
+2017-08-16 17:16:57,978 - log.py - INFO - SUCCESS    send_keys element: <('name', 'password')> text: 
+2017-08-16 17:16:58,057 - log.py - INFO - SUCCESS    Click element:<('class name', 'btn-login-submit')>
+2017-08-16 17:17:01,102 - log.py - INFO - FAIL    Unable to click element:<('class name', 'go-user-page')> 
+2017-08-16 17:17:04,182 - log.py - INFO - SUCCESS    driver quit
+2017-08-16 17:17:04,188 - log.py - INFO - ###############################  End  ###############################
+2017-08-16 17:17:04,194 - log.py - INFO - ############################### Start ###############################
+2017-08-16 17:17:07,576 - log.py - INFO - SUCCESS    Start a new browser: chrome
+2017-08-16 17:17:08,745 - log.py - INFO - SUCCESS    Set browser window maximized
+2017-08-16 17:17:08,750 - log.py - INFO - ------test_changeitem2-----
+2017-08-16 17:17:10,421 - log.py - INFO - SUCCESS    open  http://192.168.133.217
+2017-08-16 17:17:10,535 - log.py - INFO - SUCCESS    Click element:<('css selector', '.check_login_start')>
+2017-08-16 17:17:10,743 - log.py - INFO - SUCCESS    send_keys element: <('name', 'username')> text:13777669876
+2017-08-16 17:17:10,832 - log.py - INFO - SUCCESS    send_keys element: <('name', 'password')> text:1234567
+2017-08-16 17:17:10,913 - log.py - INFO - SUCCESS    Click element:<('class name', 'btn-login-submit')>
+2017-08-16 17:17:14,078 - log.py - INFO - SUCCESS    Click element:<('class name', 'create-live-a')>
+2017-08-16 17:17:15,180 - log.py - INFO - SUCCESS    send_keys element: <('name', 'title')> text:title
+2017-08-16 17:17:16,263 - log.py - INFO - SUCCESS    send_keys element: <('name', 'description')> text:des
+2017-08-16 17:17:17,376 - log.py - INFO - SUCCESS    send_keys element: <('id', 'date_timepicker_start')> text:2017-08-16 17:22:17
+2017-08-16 17:17:18,517 - log.py - INFO - SUCCESS    send_keys element: <('id', 'date_timepicker_end')> text:2017-08-16 20:17:18
+2017-08-16 17:17:19,605 - log.py - INFO - SUCCESS    Click element:<('class name', 'create-live-btn-first')>
+2017-08-16 17:17:20,698 - log.py - INFO - SUCCESS    send_keys element: <('name', 'tags')> text:tags
+2017-08-16 17:17:21,769 - log.py - INFO - SUCCESS    Click element:<('class name', 'create-live-btn-second')>
+2017-08-16 17:17:26,860 - log.py - INFO - SUCCESS    Click element:<('class name', 'btn-modal-builded')>
+2017-08-16 17:17:26,888 - log.py - INFO - SUCCESS   open_new_window <Cdwindow-583Bb446-C18C-4F26-Aeab-66D700B97B0C>
+2017-08-16 17:17:27,996 - log.py - INFO - SUCCESS    Click element:<('class name', 'modify')>
+2017-08-16 17:17:28,282 - log.py - INFO - SUCCESS    Click element:<('link text', '权限设置')>
+2017-08-16 17:17:28,363 - log.py - INFO - SUCCESS    Click element:<('css selector', "input[value='vCode']")>
+2017-08-16 17:17:28,438 - log.py - INFO - SUCCESS    send_keys element: <('name', 'valContent')> text:123
+2017-08-16 17:17:28,532 - log.py - INFO - SUCCESS    send_keys element: <('name', 'tipContent')> text:password
+2017-08-16 17:17:28,611 - log.py - INFO - SUCCESS    Click element:<('class name', 'live-edit-auth')>
+2017-08-16 17:17:34,684 - log.py - INFO - SUCCESS    driver quit
+2017-08-16 17:17:34,689 - log.py - INFO - ###############################  End  ###############################
+2017-08-16 17:17:34,695 - log.py - INFO - ############################### Start ###############################
+2017-08-16 17:17:38,072 - log.py - INFO - SUCCESS    Start a new browser: chrome
+2017-08-16 17:17:39,236 - log.py - INFO - SUCCESS    Set browser window maximized
+2017-08-16 17:17:39,241 - log.py - INFO - ------test_changeitem2-----
+2017-08-16 17:17:40,678 - log.py - INFO - SUCCESS    open  http://192.168.133.217
+2017-08-16 17:17:40,797 - log.py - INFO - SUCCESS    Click element:<('css selector', '.check_login_start')>
+2017-08-16 17:17:40,986 - log.py - INFO - SUCCESS    send_keys element: <('name', 'username')> text: 
+2017-08-16 17:17:41,059 - log.py - INFO - SUCCESS    send_keys element: <('name', 'password')> text: 
+2017-08-16 17:17:41,141 - log.py - INFO - SUCCESS    Click element:<('class name', 'btn-login-submit')>
+2017-08-16 17:17:44,205 - log.py - INFO - FAIL    Unable to click element:<('class name', 'create-live-a')> 
+2017-08-16 17:17:47,287 - log.py - INFO - SUCCESS    driver quit
+2017-08-16 17:17:47,293 - log.py - INFO - ###############################  End  ###############################
+2017-08-16 17:17:47,299 - log.py - INFO - ############################### Start ###############################
+2017-08-16 17:17:50,686 - log.py - INFO - SUCCESS    Start a new browser: chrome
+2017-08-16 17:17:51,863 - log.py - INFO - SUCCESS    Set browser window maximized
+2017-08-16 17:17:51,868 - log.py - INFO - ------test_changeitem-----
+2017-08-16 17:17:53,653 - log.py - INFO - SUCCESS    open  http://192.168.133.217
+2017-08-16 17:17:53,770 - log.py - INFO - SUCCESS    Click element:<('css selector', '.check_login_start')>
+2017-08-16 17:17:53,982 - log.py - INFO - SUCCESS    send_keys element: <('name', 'username')> text:13777669876
+2017-08-16 17:17:54,070 - log.py - INFO - SUCCESS    send_keys element: <('name', 'password')> text:1234567
+2017-08-16 17:17:54,148 - log.py - INFO - SUCCESS    Click element:<('class name', 'btn-login-submit')>
+2017-08-16 17:17:57,233 - log.py - INFO - SUCCESS    Click element:<('class name', 'go-user-page')>
+2017-08-16 17:17:57,264 - log.py - INFO - SUCCESS   open_new_window <Cdwindow-640Bb694-Cffc-4Cca-9D36-0B357F466Ee8>
+2017-08-16 17:17:58,374 - log.py - INFO - SUCCESS    Click element:<('class name', 'account-set-li')>
+2017-08-16 17:18:01,429 - log.py - INFO - SUCCESS    Clear element: <('name', 'description')>
+2017-08-16 17:18:01,496 - log.py - INFO - SUCCESS    send_keys element: <('name', 'description')> text:sffgsfg
+2017-08-16 17:18:01,582 - log.py - INFO - SUCCESS    Click element:<('class name', 'account-home-btn-save')>
+2017-08-16 17:18:03,647 - log.py - INFO - SUCCESS    Click element:<('class name', 'btn-primary')>
+2017-08-16 17:18:06,738 - log.py - INFO - SUCCESS    driver quit
+2017-08-16 17:18:06,744 - log.py - INFO - ###############################  End  ###############################
+2017-08-16 17:18:06,751 - log.py - INFO - ############################### Start ###############################
+2017-08-16 17:18:10,136 - log.py - INFO - SUCCESS    Start a new browser: chrome
+2017-08-16 17:18:11,298 - log.py - INFO - SUCCESS    Set browser window maximized
+2017-08-16 17:18:11,304 - log.py - INFO - ------test_changeitem-----
+2017-08-16 17:18:12,883 - log.py - INFO - SUCCESS    open  http://192.168.133.217
+2017-08-16 17:18:13,002 - log.py - INFO - SUCCESS    Click element:<('css selector', '.check_login_start')>
+2017-08-16 17:18:13,192 - log.py - INFO - SUCCESS    send_keys element: <('name', 'username')> text: 
+2017-08-16 17:18:13,266 - log.py - INFO - SUCCESS    send_keys element: <('name', 'password')> text: 
+2017-08-16 17:18:13,343 - log.py - INFO - SUCCESS    Click element:<('class name', 'btn-login-submit')>
+2017-08-16 17:18:16,388 - log.py - INFO - FAIL    Unable to click element:<('class name', 'go-user-page')> 
+2017-08-16 17:18:19,489 - log.py - INFO - SUCCESS    driver quit
+2017-08-16 17:18:19,495 - log.py - INFO - ###############################  End  ###############################

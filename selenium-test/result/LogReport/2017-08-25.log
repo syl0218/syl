@@ -1,0 +1,84 @@
+2017-08-25 10:21:11,869 - log.py - INFO - ############################### Start ###############################
+2017-08-25 10:21:15,895 - log.py - INFO - SUCCESS    Start a new browser: chrome
+2017-08-25 10:21:17,064 - log.py - INFO - SUCCESS    Set browser window maximized
+2017-08-25 10:21:17,069 - log.py - INFO - ------test_changeitem2-----
+2017-08-25 10:21:17,846 - log.py - INFO - SUCCESS    open  http://192.168.133.217
+2017-08-25 10:21:17,960 - log.py - INFO - SUCCESS    Click element:<('css selector', '.check_login_start')>
+2017-08-25 10:21:18,171 - log.py - INFO - SUCCESS    send_keys element: <('name', 'username')> text:13777669876
+2017-08-25 10:21:18,268 - log.py - INFO - SUCCESS    send_keys element: <('name', 'password')> text:1234567
+2017-08-25 10:21:18,352 - log.py - INFO - SUCCESS    Click element:<('class name', 'btn-login-submit')>
+2017-08-25 10:21:21,515 - log.py - INFO - SUCCESS    Click element:<('class name', 'create-live-a')>
+2017-08-25 10:21:22,615 - log.py - INFO - SUCCESS    send_keys element: <('name', 'title')> text:title
+2017-08-25 10:21:23,694 - log.py - INFO - SUCCESS    send_keys element: <('name', 'description')> text:des
+2017-08-25 10:21:24,804 - log.py - INFO - SUCCESS    send_keys element: <('id', 'date_timepicker_start')> text:2017-08-25 10:26:24
+2017-08-25 10:21:25,938 - log.py - INFO - SUCCESS    send_keys element: <('id', 'date_timepicker_end')> text:2017-08-25 13:21:25
+2017-08-25 10:21:27,018 - log.py - INFO - SUCCESS    Click element:<('class name', 'create-live-btn-first')>
+2017-08-25 10:21:28,097 - log.py - INFO - SUCCESS    send_keys element: <('name', 'tags')> text:tags
+2017-08-25 10:21:29,170 - log.py - INFO - SUCCESS    Click element:<('class name', 'live-create-img')>
+2017-08-25 10:21:32,087 - log.py - INFO - SUCCESS    Click element:<('class name', 'create-live-btn-second')>
+2017-08-25 10:21:37,183 - log.py - INFO - SUCCESS    Click element:<('class name', 'btn-modal-builded')>
+2017-08-25 10:21:37,229 - log.py - INFO - SUCCESS   open_new_window <Cdwindow-107Cf8Ed-Bbfd-4D43-B044-Da8694607E97>
+2017-08-25 10:21:38,364 - log.py - INFO - SUCCESS    Click element:<('class name', 'modify')>
+2017-08-25 10:21:38,657 - log.py - INFO - SUCCESS    Click element:<('link text', '权限设置')>
+2017-08-25 10:21:38,739 - log.py - INFO - SUCCESS    Click element:<('css selector', "input[value='vCode']")>
+2017-08-25 10:21:38,818 - log.py - INFO - SUCCESS    send_keys element: <('name', 'valContent')> text:123
+2017-08-25 10:21:38,910 - log.py - INFO - SUCCESS    send_keys element: <('name', 'tipContent')> text:password
+2017-08-25 10:21:38,992 - log.py - INFO - SUCCESS    Click element:<('class name', 'live-edit-auth')>
+2017-08-25 10:21:45,104 - log.py - INFO - SUCCESS    driver quit
+2017-08-25 10:21:45,110 - log.py - INFO - ###############################  End  ###############################
+2017-08-25 10:23:21,172 - log.py - INFO - ############################### Start ###############################
+2017-08-25 10:23:24,853 - log.py - INFO - SUCCESS    Start a new browser: chrome
+2017-08-25 10:23:26,020 - log.py - INFO - SUCCESS    Set browser window maximized
+2017-08-25 10:23:26,026 - log.py - INFO - ------test_changeitem2-----
+2017-08-25 10:23:26,731 - log.py - INFO - SUCCESS    open  http://192.168.133.217
+2017-08-25 10:23:26,845 - log.py - INFO - SUCCESS    Click element:<('css selector', '.check_login_start')>
+2017-08-25 10:23:27,059 - log.py - INFO - SUCCESS    send_keys element: <('name', 'username')> text:13777669876
+2017-08-25 10:23:27,152 - log.py - INFO - SUCCESS    send_keys element: <('name', 'password')> text:1234567
+2017-08-25 10:23:27,241 - log.py - INFO - SUCCESS    Click element:<('class name', 'btn-login-submit')>
+2017-08-25 10:23:30,405 - log.py - INFO - SUCCESS    Click element:<('class name', 'create-live-a')>
+2017-08-25 10:23:31,502 - log.py - INFO - SUCCESS    send_keys element: <('name', 'title')> text:title
+2017-08-25 10:23:32,581 - log.py - INFO - SUCCESS    send_keys element: <('name', 'description')> text:des
+2017-08-25 10:23:33,692 - log.py - INFO - SUCCESS    send_keys element: <('id', 'date_timepicker_start')> text:2017-08-25 10:28:33
+2017-08-25 10:23:34,827 - log.py - INFO - SUCCESS    send_keys element: <('id', 'date_timepicker_end')> text:2017-08-25 13:23:34
+2017-08-25 10:23:35,908 - log.py - INFO - SUCCESS    Click element:<('class name', 'create-live-btn-first')>
+2017-08-25 10:23:36,990 - log.py - INFO - SUCCESS    send_keys element: <('name', 'tags')> text:tags
+2017-08-25 10:23:38,061 - log.py - INFO - SUCCESS    Click element:<('class name', 'live-create-img')>
+2017-08-25 10:23:40,921 - log.py - INFO - SUCCESS    Click element:<('class name', 'create-live-btn-second')>
+2017-08-25 10:23:46,010 - log.py - INFO - SUCCESS    Click element:<('class name', 'btn-modal-builded')>
+2017-08-25 10:23:46,056 - log.py - INFO - SUCCESS   open_new_window <Cdwindow-D347A074-044D-428D-865C-8B1F2Efad352>
+2017-08-25 10:23:47,207 - log.py - INFO - SUCCESS    Click element:<('class name', 'modify')>
+2017-08-25 10:23:47,472 - log.py - INFO - SUCCESS    Click element:<('link text', '权限设置')>
+2017-08-25 10:23:47,557 - log.py - INFO - SUCCESS    Click element:<('css selector', "input[value='vCode']")>
+2017-08-25 10:23:47,637 - log.py - INFO - SUCCESS    send_keys element: <('name', 'valContent')> text:123
+2017-08-25 10:23:47,732 - log.py - INFO - SUCCESS    send_keys element: <('name', 'tipContent')> text:password
+2017-08-25 10:23:47,822 - log.py - INFO - SUCCESS    Click element:<('class name', 'live-edit-auth')>
+2017-08-25 10:23:53,943 - log.py - INFO - SUCCESS    driver quit
+2017-08-25 10:23:53,949 - log.py - INFO - ###############################  End  ###############################
+2017-08-25 10:24:47,638 - log.py - INFO - ############################### Start ###############################
+2017-08-25 10:24:51,288 - log.py - INFO - SUCCESS    Start a new browser: chrome
+2017-08-25 10:24:52,458 - log.py - INFO - SUCCESS    Set browser window maximized
+2017-08-25 10:24:52,464 - log.py - INFO - ------test_changeitem2-----
+2017-08-25 10:24:53,128 - log.py - INFO - SUCCESS    open  http://192.168.133.217
+2017-08-25 10:24:53,244 - log.py - INFO - SUCCESS    Click element:<('css selector', '.check_login_start')>
+2017-08-25 10:24:53,463 - log.py - INFO - SUCCESS    send_keys element: <('name', 'username')> text:13777669876
+2017-08-25 10:24:53,556 - log.py - INFO - SUCCESS    send_keys element: <('name', 'password')> text:1234567
+2017-08-25 10:24:53,648 - log.py - INFO - SUCCESS    Click element:<('class name', 'btn-login-submit')>
+2017-08-25 10:24:56,815 - log.py - INFO - SUCCESS    Click element:<('class name', 'create-live-a')>
+2017-08-25 10:24:57,915 - log.py - INFO - SUCCESS    send_keys element: <('name', 'title')> text:title
+2017-08-25 10:24:58,989 - log.py - INFO - SUCCESS    send_keys element: <('name', 'description')> text:des
+2017-08-25 10:25:00,102 - log.py - INFO - SUCCESS    send_keys element: <('id', 'date_timepicker_start')> text:2017-08-25 10:29:59
+2017-08-25 10:25:01,241 - log.py - INFO - SUCCESS    send_keys element: <('id', 'date_timepicker_end')> text:2017-08-25 13:25:01
+2017-08-25 10:25:02,324 - log.py - INFO - SUCCESS    Click element:<('class name', 'create-live-btn-first')>
+2017-08-25 10:25:03,406 - log.py - INFO - SUCCESS    send_keys element: <('name', 'tags')> text:tags
+2017-08-25 10:25:04,480 - log.py - INFO - SUCCESS    Click element:<('class name', 'live-create-img')>
+2017-08-25 10:25:07,378 - log.py - INFO - SUCCESS    Click element:<('class name', 'create-live-btn-second')>
+2017-08-25 10:25:12,468 - log.py - INFO - SUCCESS    Click element:<('class name', 'btn-modal-builded')>
+2017-08-25 10:25:12,533 - log.py - INFO - SUCCESS   open_new_window <Cdwindow-9E2E4Ed4-C7Ae-4A93-9B7E-3B89499841C3>
+2017-08-25 10:25:13,708 - log.py - INFO - SUCCESS    Click element:<('class name', 'modify')>
+2017-08-25 10:25:14,036 - log.py - INFO - SUCCESS    Click element:<('link text', '权限设置')>
+2017-08-25 10:25:14,148 - log.py - INFO - SUCCESS    Click element:<('css selector', "input[value='vCode']")>
+2017-08-25 10:25:14,230 - log.py - INFO - SUCCESS    send_keys element: <('name', 'valContent')> text:123
+2017-08-25 10:25:14,335 - log.py - INFO - SUCCESS    send_keys element: <('name', 'tipContent')> text:password
+2017-08-25 10:25:14,425 - log.py - INFO - SUCCESS    Click element:<('class name', 'live-edit-auth')>
+2017-08-25 10:25:20,634 - log.py - INFO - SUCCESS    driver quit
+2017-08-25 10:25:20,640 - log.py - INFO - ###############################  End  ###############################

@@ -1,0 +1,18 @@
+2017-07-28 14:07:59,191 - log.py - INFO - ############################### Start ###############################
+2017-07-28 14:08:03,229 - log.py - INFO - SUCCESS    Start a new browser: chrome
+2017-07-28 14:08:04,409 - log.py - INFO - SUCCESS    Set browser window maximized
+2017-07-28 14:08:04,414 - log.py - INFO - ------test_changeitem-----
+2017-07-28 14:08:05,915 - log.py - INFO - SUCCESS    open  http://192.168.133.217
+2017-07-28 14:08:06,034 - log.py - INFO - SUCCESS    Click element:<('css selector', '.check_login_start')>
+2017-07-28 14:08:06,251 - log.py - INFO - SUCCESS    send_keys element: <('name', 'username')> text:13777669876
+2017-07-28 14:08:06,343 - log.py - INFO - SUCCESS    send_keys element: <('name', 'password')> text:1234567
+2017-07-28 14:08:06,426 - log.py - INFO - SUCCESS    Click element:<('class name', 'btn-login-submit')>
+2017-07-28 14:08:09,512 - log.py - INFO - SUCCESS    Click element:<('class name', 'go-user-page')>
+2017-07-28 14:08:09,557 - log.py - INFO - SUCCESS   open_new_window <Cdwindow-47A256Af-C841-453F-A03D-E73F17D738F1>
+2017-07-28 14:08:10,668 - log.py - INFO - SUCCESS    Click element:<('class name', 'account-set-li')>
+2017-07-28 14:08:13,725 - log.py - INFO - SUCCESS    Clear element: <('name', 'description')>
+2017-07-28 14:08:13,791 - log.py - INFO - SUCCESS    send_keys element: <('name', 'description')> text:sffgsfg
+2017-07-28 14:08:13,878 - log.py - INFO - SUCCESS    Click element:<('class name', 'account-home-btn-save')>
+2017-07-28 14:08:15,946 - log.py - INFO - SUCCESS    Click element:<('class name', 'btn-primary')>
+2017-07-28 14:08:19,040 - log.py - INFO - SUCCESS    driver quit
+2017-07-28 14:08:19,047 - log.py - INFO - ###############################  End  ###############################

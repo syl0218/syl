@@ -1,0 +1,147 @@
+2017-07-19 15:37:44,147 - log.py - INFO - ############################### Start ###############################
+2017-07-19 15:37:47,544 - log.py - INFO - SUCCESS    Start a new browser: chrome, Spend 3.3919308185577393 seconds
+2017-07-19 15:37:48,703 - log.py - INFO - SUCCESS    Set browser window maximized, Spend 4.550577878952026 seconds
+2017-07-19 15:37:50,802 - log.py - INFO - SUCCESS    Navigated to http://192.168.133.217, Spend 2.094265937805176 seconds
+2017-07-19 15:37:50,913 - log.py - INFO - SUCCESS    Clicked element:<('class name', 'check_login_start')>  Spend 0.10451316833496094 seconds
+2017-07-19 15:37:51,122 - log.py - INFO - SUCCESS    send_keys element: <('name', 'username')> content: 13777559149, Spend 0.2020256519317627 seconds
+2017-07-19 15:37:51,212 - log.py - INFO - SUCCESS    send_keys element: <('name', 'password')> content: 1234567, Spend 0.08201026916503906 seconds
+2017-07-19 15:37:51,291 - log.py - INFO - SUCCESS    Clicked element:<('class name', 'btn-login-submit')>  Spend 0.0725092887878418 seconds
+2017-07-19 15:37:53,371 - log.py - INFO - SUCCESS    Clicked element:<('class name', 'go-user-page')>  Spend 0.07400941848754883 seconds
+2017-07-19 15:37:54,525 - log.py - INFO - SUCCESS    Clicked element:<('class name', 'account-set-li')>  Spend 1.126643180847168 seconds
+2017-07-19 15:37:55,015 - log.py - INFO - SUCCESS    send_keys element: <('name', 'description')> content: shsfgsdfgsdfg, Spend 0.0725092887878418 seconds
+2017-07-19 15:37:55,092 - log.py - INFO - SUCCESS    Clicked element:<('class name', 'account-home-btn-save')>  Spend 0.07100915908813477 seconds
+2017-07-19 15:37:58,156 - log.py - INFO - SUCCESS    Clicked element:<('class name', 'btn-primary')>  Spend 0.056507110595703125 seconds
+2017-07-19 15:38:01,225 - log.py - INFO - ###############################  End  ###############################
+2017-07-19 15:38:01,231 - log.py - INFO - ############################### Start ###############################
+2017-07-19 15:38:04,615 - log.py - INFO - SUCCESS    Start a new browser: chrome, Spend 3.3784289360046387 seconds
+2017-07-19 15:38:05,777 - log.py - INFO - SUCCESS    Set browser window maximized, Spend 4.539576292037964 seconds
+2017-07-19 15:38:05,782 - log.py - INFO - ------test_changname-----
+2017-07-19 15:38:20,807 - log.py - INFO - FAIL    Unable to click element:<('class name', 'check_login_start')> Spend 15.019407033920288 seconds
+2017-07-19 15:38:23,870 - log.py - INFO - ###############################  End  ###############################
+2017-07-19 15:38:23,877 - log.py - INFO - ############################### Start ###############################
+2017-07-19 15:38:27,262 - log.py - INFO - SUCCESS    Start a new browser: chrome, Spend 3.3789288997650146 seconds
+2017-07-19 15:38:28,424 - log.py - INFO - SUCCESS    Set browser window maximized, Spend 4.54107666015625 seconds
+2017-07-19 15:38:28,430 - log.py - INFO - ------test_changepassword-----
+2017-07-19 15:38:30,815 - log.py - INFO - SUCCESS    Navigated to http://192.168.133.217, Spend 2.3798022270202637 seconds
+2017-07-19 15:38:30,930 - log.py - INFO - SUCCESS    Clicked element:<('class name', 'check_login_start')>  Spend 0.10851383209228516 seconds
+2017-07-19 15:38:31,137 - log.py - INFO - SUCCESS    send_keys element: <('name', 'username')> content: 13777559149, Spend 0.20002532005310059 seconds
+2017-07-19 15:38:31,226 - log.py - INFO - SUCCESS    send_keys element: <('name', 'password')> content: 1234567, Spend 0.08101010322570801 seconds
+2017-07-19 15:38:31,305 - log.py - INFO - SUCCESS    Clicked element:<('class name', 'btn-login-submit')>  Spend 0.07300949096679688 seconds
+2017-07-19 15:38:34,388 - log.py - INFO - SUCCESS    Clicked element:<('class name', 'go-user-page')>  Spend 0.07700991630554199 seconds
+2017-07-19 15:38:35,538 - log.py - INFO - SUCCESS    Clicked element:<('class name', 'account-set-li')>  Spend 1.1231427192687988 seconds
+2017-07-19 15:38:35,927 - log.py - INFO - SUCCESS    Clicked element:<('class name', 'reset-pwd-a')>  Spend 0.3820483684539795 seconds
+2017-07-19 15:38:36,234 - log.py - INFO - SUCCESS    send_keys element: <('name', 'oldPassword')> content: 1234567, Spend 0.2990379333496094 seconds
+2017-07-19 15:38:36,312 - log.py - INFO - SUCCESS    send_keys element: <('name', 'password')> content: 1234567, Spend 0.06950879096984863 seconds
+2017-07-19 15:38:36,401 - log.py - INFO - SUCCESS    send_keys element: <('name', 'repassword')> content: 1234567, Spend 0.08251023292541504 seconds
+2017-07-19 15:38:36,482 - log.py - INFO - SUCCESS    Clicked element:<('class name', 'btn-resetpwd-submit')>  Spend 0.0745096206665039 seconds
+2017-07-19 15:38:38,547 - log.py - INFO - SUCCESS    Clicked element:<('class name', 'btn-primary')>  Spend 0.05750703811645508 seconds
+2017-07-19 15:38:41,607 - log.py - INFO - ###############################  End  ###############################
+2017-07-19 15:38:41,613 - log.py - INFO - ############################### Start ###############################
+2017-07-19 15:38:44,997 - log.py - INFO - SUCCESS    Start a new browser: chrome, Spend 3.3794291019439697 seconds
+2017-07-19 15:38:46,168 - log.py - INFO - SUCCESS    Set browser window maximized, Spend 4.549077749252319 seconds
+2017-07-19 15:38:46,173 - log.py - INFO - ------test_changeitem2-----
+2017-07-19 15:38:48,449 - log.py - INFO - SUCCESS    Navigated to http://192.168.133.217, Spend 2.2712881565093994 seconds
+2017-07-19 15:38:48,563 - log.py - INFO - SUCCESS    Clicked element:<('class name', 'check_login_start')>  Spend 0.10651373863220215 seconds
+2017-07-19 15:38:48,770 - log.py - INFO - SUCCESS    send_keys element: <('name', 'username')> content: 13777559149, Spend 0.1995253562927246 seconds
+2017-07-19 15:38:48,855 - log.py - INFO - SUCCESS    send_keys element: <('name', 'password')> content: 1234567, Spend 0.07800984382629395 seconds
+2017-07-19 15:38:48,932 - log.py - INFO - SUCCESS    Clicked element:<('class name', 'btn-login-submit')>  Spend 0.07050871849060059 seconds
+2017-07-19 15:38:52,098 - log.py - INFO - SUCCESS    Clicked element:<('class name', 'create-live-a')>  Spend 0.15902042388916016 seconds
+2017-07-19 15:38:55,194 - log.py - INFO - SUCCESS    send_keys element: <('name', 'title')> content: title, Spend 0.08851146697998047 seconds
+2017-07-19 15:38:56,274 - log.py - INFO - SUCCESS    send_keys element: <('name', 'description')> content: des, Spend 0.07300949096679688 seconds
+2017-07-19 15:38:57,384 - log.py - INFO - SUCCESS    send_keys element: <('id', 'date_timepicker_start')> content: 2017-07-19 15:43:57, Spend 0.10301327705383301 seconds
+2017-07-19 15:38:58,515 - log.py - INFO - SUCCESS    send_keys element: <('id', 'date_timepicker_end')> content: 2017-07-19 18:38:58, Spend 0.12401580810546875 seconds
+2017-07-19 15:38:59,594 - log.py - INFO - SUCCESS    Clicked element:<('class name', 'create-live-btn-first')>  Spend 0.07300925254821777 seconds
+2017-07-19 15:39:00,678 - log.py - INFO - SUCCESS    send_keys element: <('name', 'tags')> content: tags, Spend 0.07650971412658691 seconds
+2017-07-19 15:39:01,735 - log.py - INFO - SUCCESS    send_keys element: <('name', 'background')> content: C:\Users\Public\Pictures\Sample Pictures\Desert.jpg, Spend 0.050506591796875 seconds
+2017-07-19 15:39:03,805 - log.py - INFO - SUCCESS    Clicked element:<('class name', 'create-live-btn-second')>  Spend 0.06400799751281738 seconds
+2017-07-19 15:39:08,895 - log.py - INFO - SUCCESS    Clicked element:<('class name', 'btn-modal-builded')>  Spend 0.08151030540466309 seconds
+2017-07-19 15:39:10,042 - log.py - INFO - SUCCESS    Clicked element:<('class name', 'modify')>  Spend 1.1151416301727295 seconds
+2017-07-19 15:39:10,468 - log.py - INFO - SUCCESS    Clicked element:<('link text', '权限设置')>  Spend 0.41805315017700195 seconds
+2017-07-19 15:39:10,575 - log.py - INFO - SUCCESS    Clicked element:<('xpath', "//input[@value='vCode']")>  Spend 0.10051274299621582 seconds
+2017-07-19 15:39:10,696 - log.py - INFO - SUCCESS    send_keys element: <('name', 'valContent')> content: 123, Spend 0.10651350021362305 seconds
+2017-07-19 15:39:10,802 - log.py - INFO - SUCCESS    send_keys element: <('name', 'tipContent')> content: password, Spend 0.09851264953613281 seconds
+2017-07-19 15:39:10,918 - log.py - INFO - SUCCESS    Clicked element:<('class name', 'live-edit-auth')>  Spend 0.10851359367370605 seconds
+2017-07-19 15:39:17,003 - log.py - INFO - ###############################  End  ###############################
+2017-07-19 15:39:17,009 - log.py - INFO - ############################### Start ###############################
+2017-07-19 15:39:20,378 - log.py - INFO - SUCCESS    Start a new browser: chrome, Spend 3.362926959991455 seconds
+2017-07-19 15:39:21,548 - log.py - INFO - SUCCESS    Set browser window maximized, Spend 4.53207540512085 seconds
+2017-07-19 15:39:21,553 - log.py - INFO - ------test_changeitem-----
+2017-07-19 15:39:23,315 - log.py - INFO - SUCCESS    Navigated to http://192.168.133.217, Spend 1.7562229633331299 seconds
+2017-07-19 15:39:23,431 - log.py - INFO - SUCCESS    Clicked element:<('class name', 'check_login_start')>  Spend 0.11101412773132324 seconds
+2017-07-19 15:39:23,644 - log.py - INFO - SUCCESS    send_keys element: <('name', 'username')> content: 13777559149, Spend 0.2040257453918457 seconds
+2017-07-19 15:39:23,731 - log.py - INFO - SUCCESS    send_keys element: <('name', 'password')> content: 1234567, Spend 0.08101034164428711 seconds
+2017-07-19 15:39:23,809 - log.py - INFO - SUCCESS    Clicked element:<('class name', 'btn-login-submit')>  Spend 0.07150888442993164 seconds
+2017-07-19 15:39:26,895 - log.py - INFO - SUCCESS    Clicked element:<('class name', 'go-user-page')>  Spend 0.07951021194458008 seconds
+2017-07-19 15:39:28,062 - log.py - INFO - SUCCESS    Clicked element:<('class name', 'account-set-li')>  Spend 1.1361443996429443 seconds
+2017-07-19 15:39:31,187 - log.py - INFO - SUCCESS    send_keys element: <('name', 'description')> content: sffgsfg, Spend 0.06050753593444824 seconds
+2017-07-19 15:39:31,268 - log.py - INFO - SUCCESS    Clicked element:<('class name', 'account-home-btn-save')>  Spend 0.07500958442687988 seconds
+2017-07-19 15:39:33,335 - log.py - INFO - SUCCESS    Clicked element:<('class name', 'btn-primary')>  Spend 0.0570073127746582 seconds
+2017-07-19 15:39:36,409 - log.py - INFO - ###############################  End  ###############################
+2017-07-19 15:40:25,762 - log.py - INFO - ############################### Start ###############################
+2017-07-19 15:40:32,585 - log.py - INFO - ############################### Start ###############################
+2017-07-19 15:40:36,240 - log.py - INFO - SUCCESS    Start a new browser: chrome, Spend 3.648963212966919 seconds
+2017-07-19 15:40:37,412 - log.py - INFO - SUCCESS    Set browser window maximized, Spend 4.8201117515563965 seconds
+2017-07-19 15:40:37,418 - log.py - INFO - ------test_changname-----
+2017-07-19 15:40:51,954 - log.py - INFO - ############################### Start ###############################
+2017-07-19 15:40:55,603 - log.py - INFO - SUCCESS    Start a new browser: chrome, Spend 3.6429624557495117 seconds
+2017-07-19 15:40:56,787 - log.py - INFO - SUCCESS    Set browser window maximized, Spend 4.825612545013428 seconds
+2017-07-19 15:40:56,793 - log.py - INFO - ------test_changname-----
+2017-07-19 15:41:11,857 - log.py - INFO - FAIL    Unable to click element:<('class name', 'check_login_start')> Spend 15.059412240982056 seconds
+2017-07-19 15:41:14,938 - log.py - INFO - ###############################  End  ###############################
+2017-07-19 15:59:06,435 - log.py - INFO - ############################### Start ###############################
+2017-07-19 15:59:10,088 - log.py - INFO - SUCCESS    Start a new browser: chrome, Spend 3.645962715148926 seconds
+2017-07-19 15:59:11,255 - log.py - INFO - SUCCESS    Set browser window maximized, Spend 4.812110900878906 seconds
+2017-07-19 15:59:12,567 - log.py - INFO - SUCCESS    Navigated to http://192.168.133.217, Spend 1.3066658973693848 seconds
+2017-07-19 15:59:12,685 - log.py - INFO - SUCCESS    Clicked element:<('class name', 'check_login_start')>  Spend 0.1075136661529541 seconds
+2017-07-19 15:59:12,903 - log.py - INFO - SUCCESS    send_keys element: <('name', 'username')> content: 13777559149, Spend 0.20702648162841797 seconds
+2017-07-19 15:59:12,997 - log.py - INFO - SUCCESS    send_keys element: <('name', 'password')> content: 1234567, Spend 0.08701062202453613 seconds
+2017-07-19 15:59:13,079 - log.py - INFO - SUCCESS    Clicked element:<('class name', 'btn-login-submit')>  Spend 0.07500934600830078 seconds
+2017-07-19 15:59:15,158 - log.py - INFO - SUCCESS    Clicked element:<('class name', 'go-user-page')>  Spend 0.07200884819030762 seconds
+2017-07-19 15:59:16,340 - log.py - INFO - SUCCESS    Clicked element:<('class name', 'account-set-li')>  Spend 1.1356441974639893 seconds
+2017-07-19 15:59:17,146 - log.py - INFO - SUCCESS    send_keys element: <('name', 'description')> content: shsfgsdfgsdfg, Spend 0.11051392555236816 seconds
+2017-07-19 15:59:17,247 - log.py - INFO - SUCCESS    Clicked element:<('class name', 'account-home-btn-save')>  Spend 0.09401178359985352 seconds
+2017-07-19 15:59:20,313 - log.py - INFO - SUCCESS    Clicked element:<('class name', 'btn-primary')>  Spend 0.0570073127746582 seconds
+2017-07-19 15:59:23,417 - log.py - INFO - ###############################  End  ###############################
+2017-07-19 16:06:11,554 - log.py - INFO - ############################### Start ###############################
+2017-07-19 16:06:15,206 - log.py - INFO - SUCCESS    Start a new browser: chrome, Spend 3.64546275138855 seconds
+2017-07-19 16:06:16,384 - log.py - INFO - SUCCESS    Set browser window maximized, Spend 4.822612285614014 seconds
+2017-07-19 16:06:19,479 - log.py - INFO - ###############################  End  ###############################
+2017-07-19 16:09:12,106 - log.py - INFO - ############################### Start ###############################
+2017-07-19 16:09:15,768 - log.py - INFO - SUCCESS    Start a new browser: chrome, Spend 3.6554641723632812 seconds
+2017-07-19 16:09:16,939 - log.py - INFO - SUCCESS    Set browser window maximized, Spend 4.826112747192383 seconds
+2017-07-19 16:09:19,035 - log.py - INFO - SUCCESS    Navigated to http://192.168.133.217, Spend 2.0897653102874756 seconds
+2017-07-19 16:09:19,164 - log.py - INFO - SUCCESS    Clicked element:<('class name', 'check_login_start')>  Spend 0.11951541900634766 seconds
+2017-07-19 16:09:19,383 - log.py - INFO - SUCCESS    send_keys element: <('name', 'username')> content: 13777559149, Spend 0.20802640914916992 seconds
+2017-07-19 16:09:19,472 - log.py - INFO - SUCCESS    send_keys element: <('name', 'password')> content: 1234567, Spend 0.08201050758361816 seconds
+2017-07-19 16:09:19,556 - log.py - INFO - SUCCESS    Clicked element:<('class name', 'btn-login-submit')>  Spend 0.07550978660583496 seconds
+2017-07-19 16:09:21,645 - log.py - INFO - SUCCESS    Clicked element:<('class name', 'go-user-page')>  Spend 0.08201026916503906 seconds
+2017-07-19 16:09:22,817 - log.py - INFO - SUCCESS    Clicked element:<('class name', 'account-set-li')>  Spend 1.128143548965454 seconds
+2017-07-19 16:09:26,365 - log.py - INFO - ###############################  End  ###############################
+2017-07-19 16:09:45,071 - log.py - INFO - ############################### Start ###############################
+2017-07-19 16:09:48,739 - log.py - INFO - SUCCESS    Start a new browser: chrome, Spend 3.6614646911621094 seconds
+2017-07-19 16:09:49,906 - log.py - INFO - SUCCESS    Set browser window maximized, Spend 4.828613042831421 seconds
+2017-07-19 16:09:51,197 - log.py - INFO - SUCCESS    Navigated to http://192.168.133.217, Spend 1.28566312789917 seconds
+2017-07-19 16:09:51,318 - log.py - INFO - SUCCESS    Clicked element:<('class name', 'check_login_start')>  Spend 0.11151409149169922 seconds
+2017-07-19 16:09:51,537 - log.py - INFO - SUCCESS    send_keys element: <('name', 'username')> content: 13777559149, Spend 0.210526704788208 seconds
+2017-07-19 16:09:51,630 - log.py - INFO - SUCCESS    send_keys element: <('name', 'password')> content: 1234567, Spend 0.08651113510131836 seconds
+2017-07-19 16:09:51,714 - log.py - INFO - SUCCESS    Clicked element:<('class name', 'btn-login-submit')>  Spend 0.07650971412658691 seconds
+2017-07-19 16:09:53,798 - log.py - INFO - SUCCESS    Clicked element:<('class name', 'go-user-page')>  Spend 0.07550954818725586 seconds
+2017-07-19 16:09:54,963 - log.py - INFO - SUCCESS    Clicked element:<('class name', 'account-set-li')>  Spend 1.1211421489715576 seconds
+2017-07-19 16:09:55,678 - log.py - INFO - SUCCESS    send_keys element: <('name', 'description')> content: 2, Spend 0.05750727653503418 seconds
+2017-07-19 16:09:55,785 - log.py - INFO - SUCCESS    Clicked element:<('class name', 'account-home-btn-save')>  Spend 0.10051298141479492 seconds
+2017-07-19 16:09:58,854 - log.py - INFO - SUCCESS    Clicked element:<('class name', 'btn-primary')>  Spend 0.06000781059265137 seconds
+2017-07-19 16:10:01,928 - log.py - INFO - ###############################  End  ###############################
+2017-07-19 16:50:19,078 - log.py - INFO - ############################### Start ###############################
+2017-07-19 16:50:22,737 - log.py - INFO - SUCCESS    Start a new browser: chrome, Spend 3.652463674545288 seconds
+2017-07-19 16:50:23,906 - log.py - INFO - SUCCESS    Set browser window maximized, Spend 4.821112155914307 seconds
+2017-07-19 16:50:27,867 - log.py - INFO - SUCCESS    Navigated to http://192.168.133.217, Spend 3.9555022716522217 seconds
+2017-07-19 16:50:27,980 - log.py - INFO - SUCCESS    Clicked element:<('class name', 'check_login_start')>  Spend 0.10601353645324707 seconds
+2017-07-19 16:50:28,195 - log.py - INFO - SUCCESS    send_keys element: <('name', 'username')> content: 13777559149, Spend 0.20702600479125977 seconds
+2017-07-19 16:50:28,282 - log.py - INFO - SUCCESS    send_keys element: <('name', 'password')> content: 1234567, Spend 0.08051037788391113 seconds
+2017-07-19 16:50:28,361 - log.py - INFO - SUCCESS    Clicked element:<('class name', 'btn-login-submit')>  Spend 0.07200908660888672 seconds
+2017-07-19 16:50:30,445 - log.py - INFO - SUCCESS    Clicked element:<('class name', 'go-user-page')>  Spend 0.07650995254516602 seconds
+2017-07-19 16:50:31,603 - log.py - INFO - SUCCESS    Clicked element:<('class name', 'account-set-li')>  Spend 1.1166417598724365 seconds
+2017-07-19 16:50:32,395 - log.py - INFO - SUCCESS    send_keys element: <('name', 'description')> content: , Spend 0.05550694465637207 seconds
+2017-07-19 16:50:32,484 - log.py - INFO - SUCCESS    Clicked element:<('class name', 'account-home-btn-save')>  Spend 0.08401083946228027 seconds
+2017-07-19 16:50:35,554 - log.py - INFO - SUCCESS    Clicked element:<('class name', 'btn-primary')>  Spend 0.05750727653503418 seconds
+2017-07-19 16:50:38,709 - log.py - INFO - ###############################  End  ###############################
