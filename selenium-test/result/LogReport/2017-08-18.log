@@ -1,8 +1,0 @@
-2017-08-18 15:07:57,441 - log.py - INFO - ############################### Start ###############################
-2017-08-18 15:08:01,477 - log.py - INFO - SUCCESS    Start a new browser: chrome
-2017-08-18 15:08:02,656 - log.py - INFO - SUCCESS    Set browser window maximized
-2017-08-18 15:08:03,462 - log.py - INFO - SUCCESS    open  http://www.baidu.com
-2017-08-18 15:08:03,693 - log.py - INFO - SUCCESS    send_keys element: <('id', 'kw')> text:selenium
-2017-08-18 15:08:03,817 - log.py - INFO - SUCCESS    Click element:<('id', 'su')>
-2017-08-18 15:08:10,949 - log.py - INFO - SUCCESS    driver quit
-2017-08-18 15:08:10,955 - log.py - INFO - ###############################  End  ###############################
